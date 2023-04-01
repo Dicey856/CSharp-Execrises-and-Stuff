@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5JJwsa7pBXnd5/9VeqnVDILt+GraNbirE17FJV3O9oIKiiuSoTk+ns4C0hgBM9aQUGT+lgz8mFEhS5QGN0hK2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gameb\\source\\repos\\Textove\\PhoneBook\\PhoneBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gameb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
