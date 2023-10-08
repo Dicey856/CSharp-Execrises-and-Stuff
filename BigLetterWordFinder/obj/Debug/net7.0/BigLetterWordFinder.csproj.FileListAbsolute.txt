@@ -1,0 +1,15 @@
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\bin\Debug\net7.0\BigLetterWordFinder.exe
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\bin\Debug\net7.0\BigLetterWordFinder.deps.json
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\bin\Debug\net7.0\BigLetterWordFinder.runtimeconfig.json
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\bin\Debug\net7.0\BigLetterWordFinder.dll
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\bin\Debug\net7.0\BigLetterWordFinder.pdb
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\obj\Debug\net7.0\BigLetterWordFinder.csproj.AssemblyReference.cache
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\obj\Debug\net7.0\BigLetterWordFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\obj\Debug\net7.0\BigLetterWordFinder.AssemblyInfoInputs.cache
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\obj\Debug\net7.0\BigLetterWordFinder.AssemblyInfo.cs
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\obj\Debug\net7.0\BigLetterWordFinder.csproj.CoreCompileInputs.cache
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\obj\Debug\net7.0\BigLetterWordFinder.dll
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\obj\Debug\net7.0\refint\BigLetterWordFinder.dll
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\obj\Debug\net7.0\BigLetterWordFinder.pdb
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\obj\Debug\net7.0\BigLetterWordFinder.genruntimeconfig.cache
+C:\Users\gameb\source\repos\SumofNUmbers\BigLetterWordFinder\obj\Debug\net7.0\ref\BigLetterWordFinder.dll
